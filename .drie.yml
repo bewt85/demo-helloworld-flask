@@ -1,4 +1,5 @@
 environment:
+- bump=1
 - p_shared=1
 - p_overriden=2
 - refs/heads/test_ssh:
